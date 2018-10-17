@@ -8,7 +8,7 @@ package fr.imie.asciiart.alphabets.datas;
  *
  */
 public class AlphabetsDatas {
-	public static final String DEFAULT_CG_ASCII[] = new String[] {
+	public static final String[] DEFAULT_CG_ASCII = new String[] {
 			" #  ##   ## ##  ### ###  ## # # ###  ## # # #   # # ###  #  ##   #  ##   ## ### # # # # # # # # # # ### ### ",
 			"# # # # #   # # #   #   #   # #  #    # # # #   ### # # # # # # # # # # #    #  # # # # # # # # # #   #   # ",
 			"### ##  #   # # ##  ##  # # ###  #    # ##  #   ### # # # # ##  # # ##   #   #  # # # # ###  #   #   #   ## ", 
