@@ -14,7 +14,7 @@ public class ApplicationAsciiArt {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+			AsciiManeger.manager = new AsciiManager (new )
 	}
 
 }
