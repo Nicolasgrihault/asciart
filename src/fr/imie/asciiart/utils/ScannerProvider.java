@@ -1,7 +1,7 @@
 /**
  * 
  */
-package utils;
+package fr.imie.asciiart.utils;
 
 /**
  * @author NicolasG

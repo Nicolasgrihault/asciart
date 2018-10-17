@@ -1,7 +1,7 @@
 /**
  * 
  */
-package alphabets;
+package fr.imie.asciiart.alphabets;
 
 /**
  * @author NicolasG
